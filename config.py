@@ -1,5 +1,5 @@
-llm_api = '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'
-url = "https://api.perplexity.ai/chat/completions"
+llm_api = ''
+url = ""
 model = "mixtral-8x7b-instruct"
 
 course_generate_prompt = """
